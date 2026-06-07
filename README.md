@@ -28,7 +28,7 @@
 | Проект | Описание | Ссылка |
 |---|---|---|
 | `pentest-practice-labs` | Отчёты и анализ лабораторных сред | [🔗](https://github.com/btwnglxs/pentest-practice-labs) |
-| `pentest-practice-labs` | Кастомные скрипты и инструменты | [🔗](https://github.com/btwnglxs/pentest-practice-tools) |
+| `pentest-practice-tools` | Кастомные скрипты и инструменты | [🔗](https://github.com/btwnglxs/pentest-practice-tools) |
 | `PhpMyAdmin-csrf-login-brute`| Python-скрипт для перебора паролей phpMyAdmin с обходом защиты CSRF  | [🔗](https://github.com/btwnglxs/PhpMyAdmin-csrf-login-brute) |
 ---
 
