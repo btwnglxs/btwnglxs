@@ -29,10 +29,11 @@
 |---|---|---|
 | `pentest-practice-labs` | Отчёты и анализ лабораторных сред | [🔗](https://github.com/btwnglxs/pentest-practice-labs) |
 | `pentest-practice-tools` | Кастомные скрипты и инструменты | [🔗](https://github.com/btwnglxs/pentest-practice-tools) |
+| `pwds` | Многопоточный рекурсивный сканер веб-директорий на Python | 🔒 |
 | `PhpMyAdmin-csrf-login-brute`| Python-скрипт для перебора паролей phpMyAdmin с обходом защиты CSRF  | [🔗](https://github.com/btwnglxs/PhpMyAdmin-csrf-login-brute) |
 ---
 
 ## Сейчас изучаю
 
-- `Python` - практикуюсь в написании собственных скриптов автоматизации пентеста и способности подправлять готовые эксплоиты под конкретную систему.
+- `Python` - практикуюсь в написании собственных скриптов автоматизации задач пентеста и способности подправлять готовые эксплоиты под конкретную систему.
 - `Web Security` - изучаю уязвимости из OWASP TOP-10 , логику работы и механизмы защиты веб-приложений.
