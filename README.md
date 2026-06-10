@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,,python,c" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,c" />
 </p>
 
 ## Проекты
