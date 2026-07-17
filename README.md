@@ -28,7 +28,7 @@
 | Проект | Описание | Ссылка |
 |---|---|---|
 | `pentest-practice-labs` | Отчёты и анализ лабораторных сред | [🔗](https://github.com/btwnglxs/pentest-practice-labs) |
-| `pentest-practice-tools` | Кастомные скрипты и инструменты | [🔗](https://github.com/btwnglxs/pentest-practice-tools) |
+| `pentest-practice-scripts` | Кастомные скрипты и инструменты | [🔗](https://github.com/btwnglxs/pentest-practice-tools) |
 | `pwds` | Многопоточный рекурсивный сканер веб-директорий на Python | [🔗](https://github.com/btwnglxs/pwds) |
 | `PhpMyAdmin-csrf-login-brute`| Python-скрипт для перебора паролей phpMyAdmin с обходом защиты CSRF  | [🔗](https://github.com/btwnglxs/PhpMyAdmin-csrf-login-brute) |
 ---
