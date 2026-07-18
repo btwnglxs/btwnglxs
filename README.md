@@ -4,6 +4,9 @@
 <p align="center">
 Начинающий специалист в Offensive Security
 </p>
+<p align="center">
+Ищу работу младшим пентестером или стажером в сфере информационной безопасности.
+</p>
 
 ## Обо мне
 
@@ -20,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,c" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash" />
 </p>
 
 ## Проекты
@@ -28,12 +31,7 @@
 | Проект | Описание | Ссылка |
 |---|---|---|
 | `pentest-practice-labs` | Отчёты и анализ лабораторных сред | [🔗](https://github.com/btwnglxs/pentest-practice-labs) |
-| `pentest-practice-scripts` | Кастомные скрипты и инструменты | [🔗](https://github.com/btwnglxs/pentest-practice-tools) |
+| `pentest-practice-scripts` | Кастомные скрипты и инструменты | [🔗](https://github.com/btwnglxs/pentest-practice-scripts) |
 | `pwds` | Многопоточный рекурсивный сканер веб-директорий на Python | [🔗](https://github.com/btwnglxs/pwds) |
 | `PhpMyAdmin-csrf-login-brute`| Python-скрипт для перебора паролей phpMyAdmin с обходом защиты CSRF  | [🔗](https://github.com/btwnglxs/PhpMyAdmin-csrf-login-brute) |
 ---
-
-## Сейчас изучаю
-
-- `Python` - практикуюсь в написании собственных скриптов автоматизации задач пентеста и способности подправлять готовые эксплоиты под конкретную систему.
-- `Web Security` - изучаю уязвимости из OWASP TOP-10 , логику работы и механизмы защиты веб-приложений.
