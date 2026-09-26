@@ -26,3 +26,4 @@
 | `PhpMyAdmin-csrf-login-brute`| Python-скрипт для перебора паролей phpMyAdmin с обходом защиты CSRF  | [🔗](https://github.com/btwnglxs/PhpMyAdmin-csrf-login-brute) |
 ---
 ![](https://komarev.com/ghpvc/?username=btwnglxs&style=pixel)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/btwnglxs)
